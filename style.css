@@ -1,0 +1,16 @@
+h4{margin-top: 10px}
+h6{text-indent: 1em}
+h1, h2, h3, h4, h5, h6{
+    margin-bottom: 1px; color:#4A90E2;
+}
+p{margin-top: 1px;margin-bottom: 1px;}
+ul{margin-top: 0.5px;margin-bottom: 0.5px;margin-left: 8px}
+p.text{
+    font-size: 11px;
+}
+li.text{
+    font-size: 10px;
+}
+p.job{
+    font-size: 10px;font-style: italic;text-indent: 2em;color:#4A90E2
+}
