@@ -14,3 +14,6 @@ li.text{
 p.job{
     font-size: 10px;font-style: italic;text-indent: 2em;color:#4A90E2
 }
+p.indent{
+    text-indent: 2em
+}
